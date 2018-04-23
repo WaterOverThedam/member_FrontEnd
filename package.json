@@ -1,12 +1,9 @@
 {
-  "name": "example-with-vux",
+  "name": "member",
   "version": "1.0.0",
   "license": "MIT",
   "dependencies": {
     "nuxt": "latest",
-    "vue-amap": "^0.5.4",
-    "vue-datepicker-local": "^1.0.14",
-    "vue2-slot-calendar": "^2.1.4",
     "vux": "^2.8.0"
   },
   "scripts": {
